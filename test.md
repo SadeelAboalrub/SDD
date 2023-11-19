@@ -1,4 +1,4 @@
-![image](https://github.com/SadeelAboalrub/SDD/assets/93833983/61250995-090b-4104-b334-8943e5b7a65a)# Heading:
+# heading 1
 ## heading 2
 ### heading 3
 **bold**
